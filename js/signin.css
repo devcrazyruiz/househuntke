@@ -1,0 +1,20 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+   background-color:  rgb(32, 32, 34); 
+}
+.sign-in{
+    width: 80%;
+    justify-items: center;
+    padding-top: 40px;
+}
+.sign-in ul li{
+    justify-content: center;
+}
+.header{
+    color:  antiquewhite;
+}

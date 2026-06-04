@@ -1,0 +1,263 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: height= "324px" width= "390px";
+  background-color: rgb(113, 113, 228);
+  color: rgba(147, 210, 212, 0.63);
+}
+#headercolor{
+    color: antiquewhite;
+}
+
+.nav-conatiner h1 {
+  width: 99%;
+  border-radius: 10px;
+  display: flex;
+  /* background-color: blueviolet; */
+  justify-content: center;
+  color: aliceblue;
+  
+}
+/* search and filter */
+.search{
+  width: 50%;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+/*  */
+.list ul {
+  width: 99%;
+  border-radius: 10px;
+  justify-items: center;
+  display: flex;
+  list-style-type: none;
+  border-bottom: 3px solid rgb(228, 236, 238);
+}
+.list ul li:hover{
+    box-shadow:  0 0 22px #c084fc;
+}
+.whyus {
+  border-radius: 10px;
+  display: flex;
+  padding-top: 40px;
+  /* justify-content: center; */
+  /* background-color: rgb(91, 55, 221); */
+}
+#whyus1 {
+  width: 600px;
+  justify-items: center;
+}
+#hero-img {
+  border-radius: 20px;
+}
+/* listed buildings */
+.Nairobi {
+  max-width: 50%;
+  justify-content: center;
+  border-radius: 40px;
+
+}
+.book{
+    border-radius: 10px;
+    width: 40%;
+}
+
+.container {
+  width: 80%;
+  justify-items: center;
+  padding-top: 40px;
+}
+
+.nairobi-img {
+  display: flex;
+  padding-top: 40px;
+  width: 80%;
+  
+}
+.sale-prop ul li {
+  list-style-type: none;
+}
+/* Reviews */
+.review {
+  width: 70%;
+}
+.discover{
+    color: blueviolet;
+}
+.sale-prop {
+  width: 80%;
+  justify-items: center;
+  padding-bottom: 40px;
+}
+.feildset {
+  justify-self: center;
+  color: black;
+}
+/* sign in styles */
+.sign-in {
+  justify-content: center;
+  justify-items: center;
+  width: 60%;
+}
+.sign-in ul li {
+  list-style-type: none;
+  text-decoration: underline;
+}
+/* footer section */
+.footer{
+    list-style-type:none;
+    color: aliceblue;
+    display: flex;
+  justify-items: center;
+  border-start-end-radius: 10px;
+  border-top:4px solid rgb(82, 75, 75) ;
+  border-bottom: 4px solid rgb(102, 94, 94); 
+  border-radius: 5px;
+
+}
+
+
+#images {
+  border-radius: 10px;
+}
+#btn:hover{
+    box-shadow: 0 0 10px rgb(233, 241, 117);
+    color: rgb(218, 159, 11);
+}
+/* navlink */
+* {
+  margin: 0 auto;
+  padding: 0;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: height= "324px" width= "390px";
+  background-color: rgb(32, 32, 34);
+  color: rgba(147, 210, 212, 0.63);
+}
+#headercolor{
+    color: antiquewhite;
+}
+
+.nav-conatiner h1 {
+  width: 99%;
+  border-radius: 10px;
+  display: flex;
+  /* background-color: blueviolet; */
+  justify-content: center;
+  color: aliceblue;
+  
+}
+
+/*  */
+.list ul {
+  width: 99%;
+  border-radius: 10px;
+  justify-items: center;
+  display: flex;
+  list-style-type: none;
+  border-bottom: 3px solid rgb(228, 236, 238);
+}
+.list ul li:hover{
+    box-shadow:  0 0 22px #c084fc;
+}
+.whyus {
+  border-radius: 10px;
+  display: flex;
+  padding-top: 40px;
+  /* justify-content: center; */
+  /* background-color: rgb(91, 55, 221); */
+}
+#whyus1 {
+  width: 600px;
+  justify-items: center;
+}
+#hero-img {
+  border-radius: 20px;
+}
+/* listed buildings */
+.Nairobi {
+  max-width: 50%;
+  justify-content: center;
+  border-radius: 40px;
+
+}
+.book{
+    border-radius: 10px;
+    width: 40%;
+}
+
+.container {
+  width: 80%;
+  justify-items: center;
+  padding-top: 40px;
+}
+
+.nairobi-img {
+  display: flex;
+  padding-top: 40px;
+  width: 80%;
+  
+}
+.sale-prop ul li {
+  list-style-type: none;
+}
+/* Reviews */
+.review {
+  width: 70%;
+}
+.discover{
+    color: blueviolet;
+}
+.sale-prop {
+  width: 80%;
+  justify-items: center;
+  padding-bottom: 40px;
+}
+.feildset {
+  justify-self: center;
+  color: black;
+}
+/* sign in styles */
+.sign-in {
+  justify-content: center;
+  justify-items: center;
+  width: 60%;
+}
+.sign-in ul li {
+  list-style-type: none;
+  text-decoration: underline;
+}
+/* footer section */
+.footer{
+    list-style-type:none;
+    color: aliceblue;
+    display: flex;
+  justify-items: center;
+
+  /* border-start-end-radius: 10px; */
+  border-radius: 5px;
+
+}
+
+
+#images {
+  border-radius: 10px;
+}
+#btn:hover{
+    box-shadow: 0 0 10px rgb(233, 241, 117);
+    color: rgb(218, 159, 11);
+}
+.facebook{
+  display: flex;
+  padding-right: 15px;
+  padding-top: 20px;
+}
+.footer-container{
+
+display: flex;
+}
