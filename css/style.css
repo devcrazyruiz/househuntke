@@ -1,14 +1,14 @@
 * {
   margin: 0 auto;
   padding: 0;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
   color: height= "324px" width= "390px";
   background-color: rgb(113, 113, 228);
   color: rgba(147, 210, 212, 0.63);
 }
-#headercolor{
-    color: antiquewhite;
+#headercolor {
+  color: antiquewhite;
 }
 
 .nav-conatiner h1 {
@@ -18,12 +18,11 @@
   /* background-color: blueviolet; */
   justify-content: center;
   color: aliceblue;
-  
 }
 /* search and filter */
-.search{
-  width: 50%;
-  justify-content: center;
+.search {
+  width: 20%;
+
   padding-top: 10px;
   padding-bottom: 10px;
   border-radius: 10px;
@@ -38,8 +37,8 @@
   list-style-type: none;
   border-bottom: 3px solid rgb(228, 236, 238);
 }
-.list ul li:hover{
-    box-shadow:  0 0 22px #c084fc;
+.list ul li:hover {
+  box-shadow: 0 0 22px #c084fc;
 }
 .whyus {
   border-radius: 10px;
@@ -60,11 +59,10 @@
   max-width: 50%;
   justify-content: center;
   border-radius: 40px;
-
 }
-.book{
-    border-radius: 10px;
-    width: 40%;
+.book {
+  border-radius: 10px;
+  width: 40%;
 }
 
 .container {
@@ -77,7 +75,6 @@
   display: flex;
   padding-top: 40px;
   width: 80%;
-  
 }
 .sale-prop ul li {
   list-style-type: none;
@@ -86,8 +83,8 @@
 .review {
   width: 70%;
 }
-.discover{
-    color: blueviolet;
+.discover {
+  color: blueviolet;
 }
 .sale-prop {
   width: 80%;
@@ -109,38 +106,36 @@
   text-decoration: underline;
 }
 /* footer section */
-.footer{
-    list-style-type:none;
-    color: aliceblue;
-    display: flex;
+.footer {
+  list-style-type: none;
+  color: aliceblue;
+  display: flex;
   justify-items: center;
   border-start-end-radius: 10px;
-  border-top:4px solid rgb(82, 75, 75) ;
-  border-bottom: 4px solid rgb(102, 94, 94); 
+  border-top: 4px solid rgb(82, 75, 75);
+  border-bottom: 4px solid rgb(102, 94, 94);
   border-radius: 5px;
-
 }
-
 
 #images {
   border-radius: 10px;
 }
-#btn:hover{
-    box-shadow: 0 0 10px rgb(233, 241, 117);
-    color: rgb(218, 159, 11);
+#btn:hover {
+  box-shadow: 0 0 10px rgb(233, 241, 117);
+  color: rgb(218, 159, 11);
 }
 /* navlink */
 * {
   margin: 0 auto;
   padding: 0;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
   color: height= "324px" width= "390px";
   background-color: rgb(32, 32, 34);
   color: rgba(147, 210, 212, 0.63);
 }
-#headercolor{
-    color: antiquewhite;
+#headercolor {
+  color: antiquewhite;
 }
 
 .nav-conatiner h1 {
@@ -150,7 +145,6 @@
   /* background-color: blueviolet; */
   justify-content: center;
   color: aliceblue;
-  
 }
 
 /*  */
@@ -162,8 +156,8 @@
   list-style-type: none;
   border-bottom: 3px solid rgb(228, 236, 238);
 }
-.list ul li:hover{
-    box-shadow:  0 0 22px #c084fc;
+.list ul li:hover {
+  box-shadow: 0 0 22px #c084fc;
 }
 .whyus {
   border-radius: 10px;
@@ -184,11 +178,10 @@
   max-width: 50%;
   justify-content: center;
   border-radius: 40px;
-
 }
-.book{
-    border-radius: 10px;
-    width: 40%;
+.book {
+  border-radius: 10px;
+  width: 40%;
 }
 
 .container {
@@ -201,7 +194,6 @@
   display: flex;
   padding-top: 40px;
   width: 80%;
-  
 }
 .sale-prop ul li {
   list-style-type: none;
@@ -210,8 +202,8 @@
 .review {
   width: 70%;
 }
-.discover{
-    color: blueviolet;
+.discover {
+  color: blueviolet;
 }
 .sale-prop {
   width: 80%;
@@ -233,31 +225,28 @@
   text-decoration: underline;
 }
 /* footer section */
-.footer{
-    list-style-type:none;
-    color: aliceblue;
-    display: flex;
+.footer {
+  list-style-type: none;
+  color: aliceblue;
+  display: flex;
   justify-items: center;
 
   /* border-start-end-radius: 10px; */
   border-radius: 5px;
-
 }
-
 
 #images {
   border-radius: 10px;
 }
-#btn:hover{
-    box-shadow: 0 0 10px rgb(233, 241, 117);
-    color: rgb(218, 159, 11);
+#btn:hover {
+  box-shadow: 0 0 10px rgb(233, 241, 117);
+  color: rgb(218, 159, 11);
 }
-.facebook{
+.facebook {
   display: flex;
   padding-right: 15px;
   padding-top: 20px;
 }
-.footer-container{
-
-display: flex;
+.footer-container {
+  display: flex;
 }
