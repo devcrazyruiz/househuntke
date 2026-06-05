@@ -57,7 +57,7 @@
 /* listed buildings */
 .Nairobi {
   max-width: 50%;
-  justify-content: center;
+  justify-items: center;
   border-radius: 40px;
 }
 .book {
