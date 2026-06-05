@@ -6,6 +6,7 @@
   color: height= "324px" width= "390px";
   background-color: rgb(113, 113, 228);
   color: rgba(147, 210, 212, 0.63);
+  flex: wrap;
 }
 #headercolor {
   color: antiquewhite;
